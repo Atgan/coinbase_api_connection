@@ -5,8 +5,8 @@ import http.client
 
 
 
-api_key = 'organizations/4bf9d615-1d1c-40c5-8896-56572884d7e9/apiKeys/31e57904-4d28-4d17-b2ae-7480559725d5'
-api_secret = '-----BEGIN EC PRIVATE KEY-----\nMHcCAQEEINlQRo2++kJamgT0LogsL4Nj4YHyqEYDYZtjC7RY7vMroAoGCCqGSM49\nAwEHoUQDQgAEFGUQU0yDBGNtwLmsF+8H5I0gbF+hWhXhQKolVtCwhnyf0c+sEv5c\nSTn18ck0Q20WvmEHjIUBTm361+aTawwtdA==\n-----END EC PRIVATE KEY-----\n'
+api_key = ''
+api_secret = ''
 request_method = "POST"
 request_path = "/api/v3/brokerage/orders"
 
